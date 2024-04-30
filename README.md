@@ -1,4 +1,4 @@
-# Solar Roof Measurement Calculator
+# Solar Roof Measurement Calculator 
 
 A tool to measure your roof and tell you how much of your home’s energy consumption you can offset with solar. Made with Next.JS in TypeScript and includes an extensive integration with Google Maps API. Includes a rectangle packing algorithm for triangular shaped roof panels.
 
